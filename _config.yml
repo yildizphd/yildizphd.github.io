@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "AdilYildiz.jpg"
+  avatar           : "/images/AdilYildiz.jpg"
   name             : 
   pronouns         : # example: ""  
   bio              : "Ph.D. in Political Science from Ole Miss, interested in social movements, democratic backsliding, human rights, and international/European politics."
