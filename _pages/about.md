@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi, and welcome!
+Hi, and welcome to my website!
 
 I recently completed my PhD in Political Science at the University of Mississippi (Ole Miss), and I hold a Master's degree in European Studies from the University of Padova. My research sits at the intersection of democracy, human rights, and contentious politics, drawing primarily on quantitative methods alongside qualitative and mixed approaches.
 
