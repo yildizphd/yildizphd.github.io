@@ -2,7 +2,7 @@
 permalink: /
 title: ""
 author_profile: true
-image: /images/ole-miss-logo.png
+image: /images/ay-og.png
 redirect_from:
   - /about/
   - /about.html
