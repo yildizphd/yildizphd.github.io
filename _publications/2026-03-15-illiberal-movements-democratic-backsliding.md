@@ -8,4 +8,5 @@ date: 2026-03-15
 venue: 'Under review at European Journal of Political Research'
 paperurl: ''
 citation: 'Yildiz, A. (n.d.). "How Illiberal Movements Undermine Human Rights Through Democratic Backsliding." Under review at <i>European Journal of Political Research</i>.'
+show_download: false
 ---
