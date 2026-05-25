@@ -139,10 +139,12 @@
   </script>
 {% endif %}
 
-{% if page.image %}
-  <meta property="og:image" content="{{ page.image | absolute_url }}">
+{% if page.header.overlay_image %}
+  <meta property="og:image" content="{{ page.header.overlay_image | absolute_url }}">
 {% elsif page.header.image %}
   <meta property="og:image" content="{{ page.header.image | absolute_url }}">
+{% elsif page.image %}
+  <meta property="og:image" content="{{ page.image | absolute_url }}">
 {% elsif site.og_image %}
   <meta property="og:image" content="{{ site.og_image | absolute_url }}">
 {% endif %}
