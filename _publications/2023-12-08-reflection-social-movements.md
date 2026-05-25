@@ -7,5 +7,5 @@ excerpt: 'This reflection piece discusses the role of social movements in shapin
 date: 2023-12-08
 venue: 'American Political Science Association Educate, 2023'
 paperurl: 'https://educate.apsanet.org/a-brief-reflection-on-social-movements'
-citation: 'Yildiz, A. (2023). "A Brief Reflection on Social Movements." <i>APSA Educate: The Political Science Educator</i>, 27(1).'
+citation: 'Yildiz, A. (2023). "A Brief Reflection on Social Movements." <i>APSA Educate: The Political Science Educator</i>, 27(1), 38-40.'
 ---
