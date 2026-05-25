@@ -14,4 +14,4 @@ Currently, I am working on illiberal mobilizations in Europe and their effects o
 
 My work has been published in peer-reviewed journals, including *International Relations* and *European Studies Review*. Additional research is currently under review at the *European Journal of Political Research*, and another manuscript has been revised and resubmitted to *Interface*.
 
-My graduate education and research have been generously supported by the Graduate School, the Goberdhan Bhagat Award Endowment, and the Dwight Tays Scholarship at the University of Mississippi; the University of Padova and the Veneto regional government; and the European Union through the Erasmus+ Traineeship Grant.
+My graduate education and research have been generously supported by the Graduate School, the Goberdhan Bhagat Award Endowment, and the Dwight Tays Scholarship at the University of Mississippi; the University of Padova and the Veneto regional government; and the European Union through the Erasmus+ Study Abroad and Traineeship Grants.
