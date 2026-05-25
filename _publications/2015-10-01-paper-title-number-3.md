@@ -1,14 +1,11 @@
 ---
-title: "Paper Title Number 3"
+title: "Humanitarian Interventions: A Comparative Analysis of Human Rights Organizations and Geopolitical Considerations"
 collection: publications
 category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/2023-humanitarian-interventions
+excerpt: 'Are the ‘‘naming and shaming’’ activities of Human Rights Organizations (HROs) robust to geopolitical factors? While Murdie and Peksen (2014) provide empirical evidence that such HRO activities increase the likelihood of humanitarian intervention, the existing literature on geopolitics indicates a variable effect, which can be associated with both positive and negative directions regarding intervention onset, although the geopolitical effect remains consistent and significant. Hence, I formulate a hypothesis proposing a correlation between geopolitics and the initiation of interventions. I further suggest that this link could influence the empirical evidence, indicating that HRO activities have a statistically significant impact on the probability of intervention onset, potentially introducing a confounding factor. Using the replication data from Murdie and Peksen (2014) covering the period from 1990 to 2005, however, I find that even when accounting for a geopolitical factor (i.e., being a United States ally), the substantial positive influence of HRO activities on the intervention onset remains empirically robust.'
+date: 2023-01-01
+venue: 'Journal of Global Politics and Current Diplomacy'
+paperurl: 'https://www.ceeol.com/search/article-detail?id=1364311'
+citation: 'Yildiz, A. (2023). &quot;Humanitarian Interventions: A Comparative Analysis of Human Rights Organizations and Geopolitical Considerations.&quot; <i>Journal of Global Politics and Current Diplomacy</i>, 11(2), 18-37.'
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
