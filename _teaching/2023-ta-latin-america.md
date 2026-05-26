@@ -1,5 +1,5 @@
 ---
-title: "Politics of Latin America"
+title: "Politics of Latin America, 2023"
 collection: teaching
 type: "Teaching Assistant"
 permalink: /teaching/2024-ta-latin-america
