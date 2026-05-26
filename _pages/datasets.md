@@ -11,7 +11,7 @@ author_profile: true
 
 <div style="display: flex; gap: 20px; align-items: flex-start;">
 <div style="flex: 1;">
-<p>This dataset captures protest events associated with illiberal, liberal, or nationalist ideologies across 41 European countries from 1995 to 2020. The regional categories from the UCDP/PRIO Armed Conflict Dataset are used to identify the countries considered part of Europe (Gleditsch et al. 2002; Davies et al. 2024; Pettersson 2024). Only years during which these countries are classified as liberal or electoral democracies, according to V-Dem's regime classification (v2x_regime variable), are included (Lührmann et al. 2018; Coppedge et al. 2024).</p>
+<p>This dataset, which is currently being finalized, captures protest events associated with illiberal, liberal, or nationalist ideologies across 41 European countries from 1995 to 2020. The regional categories from the UCDP/PRIO Armed Conflict Dataset are used to identify the countries considered part of Europe (Gleditsch et al. 2002; Davies et al. 2024; Pettersson 2024). Only years during which these countries are classified as liberal or electoral democracies, according to V-Dem's regime classification (v2x_regime variable), are included (Lührmann et al. 2018; Coppedge et al. 2024).</p>
 <a href="https://www.researchgate.net/publication/402171254_Illiberal_Liberal_and_Nationalist_Protest_Movements_in_Europe_Dataset_Codebook">Codebook</a>
 </div>
 <div style="flex: 1;">
