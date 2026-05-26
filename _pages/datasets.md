@@ -22,7 +22,7 @@ This dataset captures protest events associated with illiberal, liberal, or nati
 
 ---
 
-### Protest Event Data of the Gezi Park and Yellow Vests Movements
+### Protest Events of the Gezi Park and Yellow Vests Movements
 
 <div style="display: flex; gap: 20px; align-items: flex-start;">
 <div style="flex: 1;">
@@ -30,7 +30,8 @@ This dataset includes protest events from the Gezi Park and Yellow Vests Movemen
 
 [Data](https://www.researchgate.net/publication/378801543_Protest_Event_Data_of_the_Gezi_Park_and_Yellow_Vests_Movements)
 </div>
-<div style="flex: 1;">
-<img src="/images/gezi-yellowvest-protests.png" alt="Gezi Park and Yellow Vests Protests" style="width: 100%;">
+<div style="flex: 1; display: flex; flex-direction: column; gap: 10px;">
+<img src="/images/yellowvests.png" alt="Yellow Vests Protests" style="width: 100%;">
+<img src="/images/gezi.png" alt="Gezi Park Protests" style="width: 100%;">
 </div>
 </div>
