@@ -1,20 +1,10 @@
 ---
-title: "Teaching experience 2"
+title: "Introduction to Comparative Politics"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Instructor of Record"
+permalink: /teaching/2023-fall-intro-comparative
+venue: "University of Mississippi, Department of Political Science"
+date: 2023-08-01
+location: "Oxford, MS, United States"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Student evaluation: 4.0/5.0
