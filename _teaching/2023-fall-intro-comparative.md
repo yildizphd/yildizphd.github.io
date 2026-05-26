@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Comparative Politics"
+title: "Introduction to Comparative Politics, 2023"
 collection: teaching
 type: "Instructor of Record"
 permalink: /teaching/2023-fall-intro-comparative
