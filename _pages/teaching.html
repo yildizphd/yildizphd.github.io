@@ -7,7 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
-<h2>Graduate Instructor, University of Mississippi, Department of Political Science</h2>
+<h2>University of Mississippi, Department of Political Science</h2>
+
+<h3>Graduate Instructor</h3>
 
 {% for post in site.teaching reversed %}
   {% if post.type == "Instructor of Record" %}
@@ -15,7 +17,7 @@ author_profile: true
   {% endif %}
 {% endfor %}
 
-<h2>Teaching Assistant, University of Mississippi, Department of Political Science</h2>
+<h3>Teaching Assistant</h3>
 
 {% for post in site.teaching reversed %}
   {% if post.type == "Teaching Assistant" %}
